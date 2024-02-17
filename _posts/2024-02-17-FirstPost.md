@@ -1,10 +1,8 @@
-
 ---
-title : 첫 포스팅
-date : YYYY-MM-DD HH:MM:SS +09:00
-categories : [test, sub_test]
-tags : [tag1, tag2] # 소문자만 가능
-pin: true
+title : "첫 포스팅"
+date : 2024-02-17 23:16:00 +0900
+categories : [test]
+tags : [tt1, tt2] # 소문자만 가능
 ---
 
 
