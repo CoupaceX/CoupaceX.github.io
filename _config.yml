@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 비즈니스 분석가가 바라보는 세상 이야기 # the main title
+title: 모루키 블로그 # the main title
 
-tagline: 꿈 많은 호기심쟁이 # it will display as the sub-title
+tagline: 비즈니스 분석가가 바라보는 <br>세상 이야기 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
