@@ -3,6 +3,7 @@ title : "첫 포스팅"
 date : 2024-02-18 04:40:00 +0900
 categories : [일상 이야기]
 tags : [인사말, Github 블로그를 하게 된 계기] # 소문자만 가능
+# header : "/assets/img/post_images/{imagename}" # 썸네일로 사용할 이미지 링크 넣기
 ---
 
 
