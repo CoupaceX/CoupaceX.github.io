@@ -1,5 +1,8 @@
 #  The contact options.
 
+- type: Switch Mode
+  icon: "fas fa-adjust"
+
 - type: github
   icon: "fab fa-github"
 
