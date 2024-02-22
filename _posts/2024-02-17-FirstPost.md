@@ -8,6 +8,8 @@ image :
   width : 600
   height : 500
   alt : First Post Thumbnail Image
+header :
+  teaser : /static/post_imgs/first_post_thumbnail.png
 ---
 
 
