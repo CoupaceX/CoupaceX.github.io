@@ -9,7 +9,7 @@ image :
   height : 500
   alt : First Post Thumbnail Image
 header :
-  teaser : /static/post_imgs/first_post_thumbnail.png
+  teaser : "/static/post_imgs/first_post_thumbnail.png"
 ---
 
 
