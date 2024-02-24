@@ -58,7 +58,7 @@ import pandas as pd
 date range prams
     - start: 시작 날짜
     - end: 마지막 날짜
-    - periods: 기간수
+    - periods: 기간 수
     - freq: 연/분기/월/일/분/초 등 날짜 주기 기준
     - tz: time zone
 ''' 
