@@ -49,22 +49,23 @@ Date Range를 사용해야 하는 상황을 예로 들어 설명해보겠습니�
 빈 공간이 있을때 특정 조건을 걸어 처리하고 매뉴얼화한다면 사용자는 더 올바르게 사용할 수 있을 것입니다. 
  
 ![img_2.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img_2.png)
-
-### 3. Date Range 사용하는 방법
+![img.png](img.png)
+### 3. Date Range 만드는 방법
 
 ---
 
-[방법1. pandas 라이브러리의 date_range 함수를 사용]
+**[방법1. pandas 라이브러리의 date_range 함수를 사용]**
 ```py
 import pandas as pd
 pd.date_range(start="2024-01-01", end="2024-01-05")
 ```
 
-[출력결과]
+**[출력결과]**
+
 ![img.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img_4.png)
 
 
-[방법2. 직접 함수로 구현]
+**[방법2. 직접 함수로 구현]**
 ```py
 
 from datetime import datetime, timedelta
@@ -85,7 +86,8 @@ def date_range(start: str,
 
 ```
 
-[출력결과]
+**[출력결과]**
+
 ![img.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img_3.png)
 
 

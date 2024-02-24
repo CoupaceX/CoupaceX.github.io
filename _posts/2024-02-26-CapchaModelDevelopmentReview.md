@@ -49,17 +49,22 @@ image :
 이왕 시작한 거 마무리까지 최선을 다해 도와주기로 했습니다.
 
 **[AWS, Ubuntu 딥러닝 서버 세팅 완료]**
-![img.png](/2024-02-26-CapchaModelDevelopmentReview/img.png)
+
+![img.png](/assets/img/post_imgs/2024-02-26-CapchaModelDevelopmentReview//img.png)
 
 **[Captcha 인식 모델 API 송출 테스트 완료]**
-![img_1.png](/2024-02-26-CapchaModelDevelopmentReview/img_1.png)
-![img_2.png](/2024-02-26-CapchaModelDevelopmentReview/img_2.png){: width="50%" height="50%"}
+
+![img_1.png](/assets/img/post_imgs/2024-02-26-CapchaModelDevelopmentReview//img_1.png)
+
+![img_2.png](/assets/img/post_imgs/2024-02-26-CapchaModelDevelopmentReview//img_2.png){: width="50%" height="50%"}
 
 **[구글링으로 찾은 Captcha 모델 예측 결과]**
-![img_3.png](/2024-02-26-CapchaModelDevelopmentReview/img_3.png)
+
+![img_3.png](/assets/img/post_imgs/2024-02-26-CapchaModelDevelopmentReview//img_3.png)
 
 **[직접 개발한 Captcha 모델 예측 결과]**
-![img_4.png](/2024-02-26-CapchaModelDevelopmentReview/img_4.png)
+
+![img_4.png](/assets/img/post_imgs/2024-02-26-CapchaModelDevelopmentReview//img_4.png)
 
 위 결과와 같이 구글링으로 찾은 Cqptcha 모델은 5~6개 중 1개 정도 틀린 값을 뱉어냈기 때문에 딥러닝 모델 공부용으로는 적합할지 몰라도 서비스 적용에는 어렵다고 판단하였고 직접 개발한 Captcha 모델의 경우 정확도가 99.65%로 매우 높은 정확도를 보였기에 서비스 도입에 충분하다 생각했습니다.
 
