@@ -66,7 +66,7 @@ pd.date_range(start="2024-01-01", end="2024-01-05")
 ```
 
 **[출력결과]** <br>
-![img.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img_4.png){:.align-right}
+![img.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img_4.png)
 
 
 **[방법2. 직접 함수로 구현]**
@@ -90,7 +90,7 @@ def date_range(start: str,
 ```
 
 **[출력결과]** <br>
-![img.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img_3.png){:.align-right}
+![img.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img_3.png)
 
 
 ### 4. 마치며
