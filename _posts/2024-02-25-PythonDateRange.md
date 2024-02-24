@@ -49,7 +49,7 @@ Date Range를 사용해야 하는 상황을 예로 들어 설명해보겠습니�
 빈 공간이 있을때 특정 조건을 걸어 처리하고 매뉴얼화한다면 사용자는 더 올바르게 사용할 수 있을 것입니다. 
  
 ![img_2.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img_2.png)
-![img.png](img.png)
+
 ### 3. Date Range 만드는 방법
 
 ---
