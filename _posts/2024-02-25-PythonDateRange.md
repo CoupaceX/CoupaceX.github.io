@@ -1,10 +1,10 @@
 ---
 title : "Python 기간 날짜 데이터 생성하기"
 date : 2024-02-25 00:50:00 +0900
-categories : [Python Function]
+categories : [Python, Functions]
 tags : [python func, 기간 날짜 데이터 생성하기] # 소문자만 가능
 image :
-  path : /static/thumbnail_imgs/python_date_range_thumbnail.jpg # 썸네일로 사용할 이미지 링크 넣기
+  path : /static/thumbnail_imgs/python_date_range_thumbnail.png # 썸네일로 사용할 이미지 링크 넣기
   width : 600
   height : 500
   alt : Python Date Range Thumbnail Image
