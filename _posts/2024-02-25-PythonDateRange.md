@@ -17,7 +17,6 @@ image :
 ### 1. Date Range란?
 
 ---
-
 Date Rnage란 아래 그림과 같이 특정 날짜가 아닌 일정 기간 동안의 날짜를 말합니다.
 
 ![img.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img.png)
@@ -25,7 +24,6 @@ Date Rnage란 아래 그림과 같이 특정 날짜가 아닌 일정 기간 동�
 ### 2. Date Range를 사용하는 이유?
 
 ---
-
 Date Range는 Python을 처음 공부하거나 이론 중심으로 배울 때는 잘 사용하지 않습니다.
 그러나 실무에서는 자주 사용하게 되는데 주로 시계열 데이터를 다룰 때 사용하게 됩니다.
 
@@ -53,10 +51,17 @@ Date Range를 사용해야 하는 상황을 예로 들어 설명해보겠습니�
 ### 3. Date Range 만드는 방법
 
 ---
-
 **[방법1. pandas 라이브러리의 date_range 함수를 사용]**
 ```py
 import pandas as pd
+'''
+date range prams
+    - start: 시작 날짜
+    - end: 마지막 날짜
+    - periods: 기간수
+    - freq: 연/분기/월/일/분/초 등 날짜 주기 기준
+    - tz: time zone
+''' 
 pd.date_range(start="2024-01-01", end="2024-01-05")
 ```
 
@@ -83,7 +88,6 @@ def date_range(start: str,
         start_dt += delta
 
     return dates
-
 ```
 
 **[출력결과]**
@@ -94,7 +98,9 @@ def date_range(start: str,
 ### 4. 마치며
 
 ---
-보다 정확한 데이터 처리를 위해 시계열 데이터를 다룰 때 Date Range를 활용하면 더 좋을 것 같습니다.
+일반적인 Date Range를 구할 때는 ***방법1***을 사용하고 특수한 경우에는 ***방법2***를 수정하여 사용하는 것을 권장드립니다.
+방법1은 pandas 내장함수를 사용한 방법으로 "start"와 "end" 외에도 더 많은 옵션이 있는 데 자주 사용하는 옵션은 "date range prams"를 참고해 주시면 됩니다.
+
 블로그 내용 중 궁금한 점이 있다면 아래 코멘트로 글 남겨주시면 답변드리도록 하겠습니다.
 이상으로 오늘의 포스팅을 마치겠습니다.
 감사합니다.
