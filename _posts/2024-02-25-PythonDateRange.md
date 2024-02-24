@@ -1,6 +1,6 @@
 ---
 title : "Python 기간 날짜 데이터 생성하기"
-date : 2024-02-25 01:00:00 +0900
+date : 2024-02-25 00:50:00 +0900
 categories : [Python Function]
 tags : [python func, 기간 날짜 데이터 생성하기] # 소문자만 가능
 image :
