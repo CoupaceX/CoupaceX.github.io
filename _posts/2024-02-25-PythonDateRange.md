@@ -65,8 +65,7 @@ date range prams
 pd.date_range(start="2024-01-01", end="2024-01-05")
 ```
 
-**[출력결과]**
-
+**[출력결과]** <br>
 ![img.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img_4.png)
 
 
@@ -90,8 +89,7 @@ def date_range(start: str,
     return dates
 ```
 
-**[출력결과]**
-
+**[출력결과]** <br>
 ![img.png](/assets/img/post_imgs/2024-02-25-PythonDateRange/img_3.png)
 
 
