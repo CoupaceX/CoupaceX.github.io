@@ -1,6 +1,6 @@
 ---
 title : "Pytorch 캡차(Captcha) 인식 모델 개발 후기"
-date : 2024-02-26 18:00:00 +0900
+date : 2024-03-10 18:00:00 +0900
 categories : [Python, Projects]
 tags : [python proj, deep learning for computer vision] # 소문자만 가능
 image :
